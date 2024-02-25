@@ -51,7 +51,7 @@ export default function Slide4({ onPress }: Props) {
               <Typography type="h1" style={styles.titlesub}>
                 {i18n.t("intro_screen.step4.title.2")}
               </Typography>
-              <Typography type="h1" style={[styles.title, styles.marginTitle]}>
+              <Typography type="h1" style={[styles.title, styles.marginTitle, {fontSize:hp(4.5)}]}>
                 {i18n.t("intro_screen.step4.title.3")}
               </Typography>
               <Typography type="h1" style={styles.titlesub}>
