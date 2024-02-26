@@ -25,6 +25,20 @@
       ],
       "content": "The app also provides recommendations for clothing, attire, and transportation for various weather conditions.",
       "button": "Swipe to skip"
+    },
+    "step4": {
+      "title": [
+        "500 meters",
+        "ahead",
+        "to arrive.",
+        "Ultra-Wide Band",
+        "fully optimized"
+      ],
+      "content": "On devices with support for Ultra-Wideband (UWB) chip, the positioning for moving to a safe place is easier than ever.\n\nRefer to the description for a better understanding of the navigation process",
+      "buttons": {
+        "description": "See description",
+        "done": "Done"
+      }
     }
   },
   "feature": {
@@ -35,11 +49,21 @@
       "to": "to",
       "findGatheringPoint": "Find Assembly Point",
       "emergency": "Emergency",
-      "viewDescription": "View description",
+      "viewDescription": "See description",
       "start": "Start",
       "understandNavigation": "Refer to the description for a better understanding of navigation.",
       "button": {
-        "viewDescription": "View description",
+        "viewDescription": "See description",
+        "start": "Start"
+      },
+      "NavigationSafetyScreen":{
+        "findingTo": "On the way to",
+        "meetingPoint": "Assembly point",
+        "policeStation": "Police",
+        "city": "Thanh Binh City",
+        "distance": "Meters",
+        "beside": "On the",
+        "left": "left",
         "start": "Start"
       }
     }
